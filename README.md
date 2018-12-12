@@ -1,11 +1,17 @@
 # Programming-Project-2018
-Model and synthesise data using Python
 
-Idea Generation
-Perinatal death has heartbreaking consquences for many many people.  There is a whole area of study in epidemelogy
+This repository contains, primarily, a jupyter notebook that answers a challenge to model and synthesise data using Python
 
-https://public.vtoxford.org/about-us/
-https://www.ucc.ie/en/media/research/nationalperinatalepidemiologycentre/annualreports/MortalityRiskAmongstVeryLowBirthWeightInfantsintheRepublicofIrelandReport2014-2016.pdf
-https://medlineplus.gov/ency/article/002367.htm
-https://stackoverflow.com/questions/33160367/numpy-how-to-generate-a-normally-distributed-set-of-integers?rq=1
-https://datacamp-community-prod.s3.amazonaws.com/f9f06e72-519a-4722-9912-b5de742dbac4
+The purpose of this Jupyter Notebook is to synthesis data for a real-world phenomenon that can be measured.
+
+The criteria for this challenge are:
+
+- to collect at least one-hundred data points across at least four different variables
+- Investigate the types of variables involved, their likely distributions, and their relationships with each other.
+- Synthesise/simulate a data set as closely matching their properties as possible
+- Detail the research and implement the simulation in a Jupyter notebook 
+
+
+To run the notebook, you must have [Jupyter] https://jupyter.org/ Installed on your machine. You can install this using the [Anaconda] https://anaconda.org/ Python distribution. The notebook itself is called Model and Synthesize data using Python.ipynb http://localhost:8888/notebooks/Model%20and%20Synthesize%20data%20using%20Python.ipynb
+
+
